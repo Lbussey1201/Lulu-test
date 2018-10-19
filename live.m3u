@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 group-title="US: United States",US: NFL CHANNEL HD
+http://kstv.xyz:8080/live/retscpo94/1424361542/15945.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: AQUA TEEN HUNGER FORCE 
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS NETWORK 
+http://kstv.xyz:8080/live/retscpo94/1424361542/22499.m3u8
